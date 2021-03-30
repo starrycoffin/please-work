@@ -1,0 +1,131 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+		<title>StarryCoffin</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+<!--font-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+	<script src="http://use.edgefonts.net/amethysta:n4:default.js" type="text/javascript"></script>
+</head>
+	<body>
+		<div class="page-wrap">
+
+			<!-- Nav -->
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html"><span class="icon fa-home"></span></a></li>
+						<li><a href="gallery.html"><span class="icon fa-camera-retro"></span></a></li>
+						<li><a href="generic.html" class="active"><span class="icon fa-file-text-o"></span></a></li>
+					</ul>
+				</nav>
+
+			<!-- Main -->
+				<section id="main">
+
+					<!-- Header -->
+						<header id="header">
+							<div><span>Starry Coffin</span></div>
+						</header>
+
+					<!-- Section -->
+						<section>
+							<div class="inner">
+								<header>
+									<h1>Commission Information&nbsp;</h1>
+								</header>
+								<p>As of this moment I do not have set prices and am instead basing my prices on what you would like to commission. Please feel free to email me and I will get back to you with a price that will cover the project. Thank you!</p>
+								<h2>Details About Me&nbsp;</h2>
+								<p>Hello! My name is Darla McMahon (I go by Mauve) and I am currently a senior college student at RSU majoring in Multimedia Art. I enjoy cartoons, anime, and video games. Thus my goal after I graduate is to work in one of these fields. Currently I am working on building up my resume and working on Capstone! </p>
+								<p>Proficient with Digital Art, Charcoal, Acrylics, Soft Pastels, Color Pencils,  Graphite, Ink, and Sewing.</p>
+								<p>Software:  Clip Studio, Photoshop, Illustrator, Maya 2020, Procreate, Microsoft Word, Excel, and Powerpoint.
+								</p>
+								<p>Experience:
+April 2015 - Present;
+Self Employed, Artist;
+Responsibilities: Meeting deadlines, managing financial accounts, making sure customers are happy with the final product.
+Accomplishments: Good customer service, met all deadlines before the final date, made customers happy.
+Skills Used: Digital Art, printing services, email, phone calls and communication.</p>
+								<p>Education:
+Fall  2017 - Fall 2021;
+Rogers State University, Claremore, OK - BFA
+Working towards a BFA in Multimedia Art and Design. ; Haskell High School, Haskell, OK - High School Diploma.
+</p>
+								<section class="columns double">
+									<div class="column">
+										<span class="image left special"><img src="images/cent.jpg" alt="" /></span>
+									  <h3>Noticable Work</h3>
+										<p>
+									    "Anxiety" Has won an Honorable Mention at RSU Student Art Exhibition 2020</p>
+									</div>
+									<div class="column">
+										<span class="image left special"><img src="images/stev.jpg" alt="" /></span>
+									  <h3>Inspirations</h3>
+										<p>
+									    Steven Universe has always been a big inspiration for me, as well as anime and video games in general. I often like to escape from reality by indulging in these types of things, and so I want to create art that others could use to escape reality as well.&nbsp; &nbsp; </p>
+									</div>
+								</section>
+							</div>
+						</section>
+
+					<!-- Contact -->
+						<section id="contact">
+							<!-- Social -->
+								<div class="social column">
+									<h3>About Me</h3>
+									<p>Hello and welcome! This is Darla McMahon (I go by Mauve). I hope that you are interested in my work and look forward to seeing more from me in the future!</p>
+									<p>If you are here for internship consideration, welcome! I hope you enjoy my work and I look forward to hearing from you in the future!<p>
+									Commissions are currently open, so feel free to reach out if you would like to work together for a project or art piece! If you have any questions about prices, please let me know. Thank you for visiting my page and follow me to keep up to date with my latest works!</p>
+									<h3>Follow Me</h3>
+									<ul class="icons">
+										<li><a href="https://twitter.com/starrycoffin" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://starrycoffin.tumblr.com" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
+										<li><a href="https://www.instagram.com/starrycoffin/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+									</ul>
+								</div>
+
+							<!-- Form -->
+								<div class="column">
+									<h3>Get in Touch</h3>
+									<form action="mailto:sddarlamcmahon@student.rsu.edu" method="post">
+										<div class="field half first">
+											<label for="name">Name</label>
+											<input name="name" id="name" type="text" placeholder="Name">
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input name="email" id="email" type="email" placeholder="Email">
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="6" placeholder="Message"></textarea>
+										</div>
+										<ul class="actions">
+											<li><input value="Send Message" class="button" type="submit"></li>
+										</ul>
+									</form>
+								</div>
+
+						</section>
+
+					<!-- Footer -->
+						<footer id="footer">
+							<div class="copyright">
+								&copy;Design: Starry Coffin. Images: Starry Coffin.
+							</div>
+						</footer>
+				</section>
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
