@@ -1,0 +1,174 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+		<title>Gallery-Starry Coffin</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+<!--font-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+	<script src="http://use.edgefonts.net/amethysta:n4:default.js" type="text/javascript"></script>
+</head>
+	<body>
+		<div class="page-wrap">
+
+			<!-- Nav -->
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html"><span class="icon fa-home"></span></a></li>
+						<li><a href="gallery.html" class="active"><span class="icon fa-camera-retro"></span></a></li>
+						<li><a href="generic.html"><span class="icon fa-file-text-o"></span></a></li>
+					</ul>
+				</nav>
+
+			<!-- Main -->
+				<section id="main">
+
+					<!-- Header -->
+						<header id="header">
+							<div><span>Starry Coffin</span></div>
+						</header>
+
+					<!-- Gallery -->
+						<section id="galleries">
+
+							<!-- Photo Galleries -->
+								<div class="gallery">
+
+									<!-- Filters -->
+										<header>
+											<h1>Gallery</h1>
+											<ul class="tabs">
+												<li><a href="#" data-tag="all" class="button active">All</a></li>
+												<li><a href="#" data-tag="personal" class="button">Personal</a></li>
+												<li><a href="#" data-tag="fanart" class="button">Fanart</a></li>
+												<li><a href="#" data-tag="work" class="button">School Work</a></li>
+											</ul>
+										</header>
+
+										<div class="content">
+	
+											<div class="media all personal">
+												<a href="images/fulls/angel.jpg"><img src="images/thumbs/angel.jpg" alt="" title="Biblical Angel" /></a>
+											</div>
+											<div class="media all personal">
+												<a href="images/fulls/girl.jpg"><img src="images/thumbs/girl.jpg" alt="" title="Girl" /></a>
+											</div>
+											<div class="media all personal">
+												<a href="images/fulls/lights.jpg"><img src="images/thumbs/lights.jpg" alt="" title="Lights" /></a>
+											</div>
+											<div class="media all personal">
+												<a href="images/fulls/armor.jpg"><img src="images/thumbs/armor.jpg" alt="" title="Armor" /></a>
+											</div>
+											<div class="media all school work">
+											  <a href="images/fulls/centipede.jpg"><img src="images/thumbs/centipede.jpg" alt="" title="Anxiety (Honorable Mention: RSU Student Art Exhibition 2020)" /></a>
+											</div>
+											<div class="media all school work">
+												<a href="images/fulls/eyestrain.jpg"><img src="images/thumbs/eyestrain.jpg" alt="" title="Eyestrain (RSU Student Art Exhibition 2020)" /></a>
+											</div>
+											<div class="media all personal">
+												<a href="images/fulls/backgroundstudy.jpg"><img src="images/thumbs/backgroundstudy.jpg" alt="" title="Background Study" /></a>
+											</div>
+											<div class="media all personal">
+												<a href="images/fulls/mephie.jpg"><img src="images/thumbs/mephie.jpg" alt="" title="Mephie: Original Character" /></a>
+											</div>
+											<div class="media all personal">
+												<a href="images/fulls/lonely.jpg"><img src="images/thumbs/lonely.jpg" alt="" title="Lonely Boy" /></a>
+											</div>
+											<div class="media all fanart">
+												<a href="images/fulls/steven.png"><img src="images/thumbs/steven.jpg" alt="" title="Steven Universe: Fanart" /></a>
+											</div>
+											<div class="media all personal">
+												<a href="images/fulls/library.png"><img src="images/thumbs/library.png" alt="" title="Vampire Library" /></a>
+											</div>
+											<div class="media all fanart">
+												<a href="images/fulls/bispearl.png"><img src="images/thumbs/bispearl.png" alt="" title="Pearl and Bismuth; Steven Universe Fanart" /></a>
+											</div>
+											<div class="media all school work">
+												<a href="images/fulls/movieposter.png"><img src="images/thumbs/movieposter.png" alt="" title="The Shaman Movie Poster" /></a>
+											</div>
+											<div class="media all school work">
+												<a href="images/fulls/painttext.png"><img src="images/thumbs/painttext.png" alt="" title="Paint Type" /></a>
+											</div>
+											<div class="media all school work">
+												<a href="images/fulls/watertext.png"><img src="images/thumbs/watertext.png" alt="" title="Water Type" /></a>
+											</div>
+											<div class="media all school work">
+												<a href="images/fulls/glitchtext.png"><img src="images/thumbs/glitchtext.png" alt="" title="Glitch Type" /></a>
+											</div>
+											
+											<div class="media all school work">
+												<a href="images/fulls/envelopeandcard-1.png"><img src="images/thumbs/envelopeandcard-1.png" alt="" title="Graphic Design 2: Envelope and Card" /></a>
+											</div>
+											<div class="media all school work">
+												<a href="images/fulls/envelopeandcard-2.png"><img src="images/thumbs/envelopeandcard-2.png" alt="" title="Graphic Design 2: Letterhead Back" /></a>
+											</div>
+											<div class="media all school work">
+												<a href="images/fulls/envelopeandcard-3.png"><img src="images/thumbs/envelopeandcard-3.png" alt="" title="Graphic Design 2: Letterhead Front" /></a>
+											</div>
+											<div class="media all school work">
+												<a href="images/fulls/dpwcircle.png"><img src="images/thumbs/dpwcircle.png" alt="" title="Digital Concept for Painting 2" /></a>
+											</div>
+										</div>
+								</div>
+						</section>
+
+					<!-- Contact -->
+						<section id="contact">
+							<!-- Social -->
+								<div class="social column">
+									<h3>About Me</h3>
+									<p>Hello and welcome! This is Darla McMahon (I go by Mauve). I hope that you are interested in my work and look forward to seeing more from me in the future!</p>
+									<p>If you are here for internship consideration, welcome! I hope you enjoy my work and I look forward to hearing from you in the future!<p>
+									Commissions are currently open, so feel free to reach out if you would like to work together for a project or art piece! If you have any questions about prices, please let me know. Thank you for visiting my page and follow me to keep up to date with my latest works!</p>
+									<h3>Follow Me</h3>
+									<ul class="icons">
+										<li><a href="https://twitter.com/starrycoffin" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://starrycoffin.tumblr.com" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
+										<li><a href="https://www.instagram.com/starrycoffin/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+									</ul>
+								</div>
+
+							<!-- Form -->
+								<div class="column">
+									<h3>Get in Touch</h3>
+									<form action="mailto:sddarlamcmahon@student.rsu.edu" method="post">
+										<div class="field half first">
+											<label for="name">Name</label>
+											<input name="name" id="name" type="text" placeholder="Name">
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input name="email" id="email" type="email" placeholder="Email">
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="6" placeholder="Message"></textarea>
+										</div>
+										<ul class="actions">
+											<li><input value="Send Message" class="button" type="submit"></li>
+										</ul>
+									</form>
+								</div>
+
+						</section>
+
+					<!-- Footer -->
+						<footer id="footer">
+							<div class="copyright">
+								&copy; Design: Starry Coffin. Images: Starry Coffin.
+							</div>
+						</footer>
+				</section>
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
